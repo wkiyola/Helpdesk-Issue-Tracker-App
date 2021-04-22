@@ -1,0 +1,20 @@
+[
+	{
+		"symptom": "Software Center - Updates not applying",
+		"workaround":"install manually",
+		"technicalNotes":"navigate to source folder and run .exe file as -sa",
+		"poc":"William Kiyola",
+		"nextUpdate":"n/a",
+		"resolutionETA":"EOD Wednesday 4/21/21",
+		"tags":"internal"
+	},
+	{
+		"symptom": "Adobe Crashing ",
+		"workaround":"install the patch from source folder",
+		"technicalNotes":"perm solution is under investigation",
+		"poc":"Elijah Moore",
+		"nextUpdate":"n/a",
+		"resolutionETA":"n/a",
+		"tags":"public"
+	}
+]

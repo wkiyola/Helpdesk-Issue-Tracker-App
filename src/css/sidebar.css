@@ -1,0 +1,24 @@
+.sidebar-dashboard{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.sidebar{
+    background-color: #e3e3e3;
+    color: #807f7e;
+    height: 100%;
+}
+.sidebar-item{
+    border: 1px solid white;
+    padding: 5px;
+    text-align: start;
+    font-size: 18px;
+}
+.sidebar-item:hover{
+    cursor: pointer;
+    background-color: white;
+}
+.dashboard-item{
+    border: 1px solid rebeccapurple;
+    flex: 1;
+}

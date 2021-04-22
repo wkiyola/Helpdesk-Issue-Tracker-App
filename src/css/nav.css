@@ -1,0 +1,20 @@
+.nav-bar{
+    background-color: rgb(61, 142, 192);
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+    position: sticky;
+    text-align: center;
+}
+.nav-bar input{
+    padding: 5px;
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+    outline-width: 0;
+    color: gray;
+}
+.nav-item:hover{
+    cursor: pointer;
+    color: gray;
+}
